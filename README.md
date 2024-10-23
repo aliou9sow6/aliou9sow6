@@ -1,6 +1,6 @@
 # Bonjour, je suis Aliou Saïd Noor SOW 👋
 
-Je suis un ingénieur logiciel passionné par les nouvelles technologies et le développement de solutions innovantes. Actuellement, je travaille chez Atos en tant que développeur à Dakar, Sénégal.
+Je suis développeur web passionné par les nouvelles technologies et le développement de solutions innovantes. Actuellement, je travaille chez Atos en tant que développeur à Dakar, Sénégal.
 
 ## 🌟 À propos de moi
 - 🎓 Formation : Certificat en developpement logiciel à l'université Numérique Cheikh Hamidou KANE (UNCHK);
