@@ -17,6 +17,8 @@ Je suis développeur web passionné par les nouvelles technologies et le dévelo
 
 ## 📊 Statistiques GitHub
 ![Les statistiques GitHub de Aliou](https://github-readme-stats.vercel.app/api?username=aliou9sow6&show_icons=true&theme=radical)
+[![Build Status](https://travis-ci.org/aliou9sow6/repo.svg?branch=master)](https://travis-ci.org/aliou9sow6/repo)
+
 
 ## ✨ Citations et Inspirations
 > "La seule façon de faire du bon travail est d'aimer ce que vous faites." - Steve Jobs
