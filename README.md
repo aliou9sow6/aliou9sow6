@@ -24,6 +24,8 @@ Je suis développeur web passionné par les nouvelles technologies et le dévelo
 > "La meilleure façon de prédire l'avenir est de le créer." – Peter Drucker
 >
 > "L'agilité est la capacité de s'adapter et de réagir aux changements. La flexibilité et la résilience sont des éléments clés de la réussite des projets agiles." – Anonyme
-
+[![Build Status](https://travis-ci.org/user/repo.svg?branch=master)](https://travis-ci.org/user/repo)
+[![Coverage Status](https://coveralls.io/repos/github/user/repo/badge.svg?branch=master)](https://coveralls.io/repos/github/user/repo?branch=master)
+[![GitHub stars](https://img.shields.io/github/stars/user/repo.svg)](https://github.com/user/repo/stargazers)
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter pour des collaborations ou simplement pour échanger sur les technologies et les projets passionnants.
