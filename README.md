@@ -1,6 +1,6 @@
 # Bonjour, je suis Aliou Saïd Noor SOW 👋
 
-Je suis développeur web passionné par les nouvelles technologies et le développement de solutions innovantes. Actuellement, je travaille chez Atos en tant que développeur à Dakar, Sénégal.
+Je suis développeur web passionné par les nouvelles technologies et le développement de solutions innovantes.
 
 ## 🌟 À propos de moi
 - 🎓 Formation : laboratoire de science des données appliquées à l'Université WorldQuant. 201 St. Charles Ave, Suite 2500 New Orleans, LA 70170.
