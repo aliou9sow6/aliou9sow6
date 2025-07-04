@@ -18,7 +18,6 @@ Je suis développeur web passionné par les nouvelles technologies et le dévelo
 - LinkedIn : [Aliou Saïd Noor SOW](https://www.linkedin.com/in/aliou-saidou-nourou-sow-054084228/)
 
 ## 📊 Statistiques GitHub
-![Les statistiques GitHub de Aliou](https://github-readme-stats.vercel.app/api?username=aliou9sow6&show_icons=true&theme=radical)
 
 ### Activité Globale
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aliou9sow6&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
@@ -30,8 +29,7 @@ Je suis développeur web passionné par les nouvelles technologies et le dévelo
 ![Calendrier des Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aliou9sow6&theme=radical&hide_border=true)
 
 ## ✨ Citations et Inspirations
-> "La seule façon de faire du bon travail est d'aimer ce que vous faites." - Steve Jobs
->
+
 > "La meilleure façon de prédire l'avenir est de le créer." – Peter Drucker
 >
 > "L'agilité est la capacité de s'adapter et de réagir aux changements. La flexibilité et la résilience sont des éléments clés de la réussite des projets agiles." – Anonyme
