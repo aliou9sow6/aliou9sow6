@@ -30,7 +30,7 @@ Je suis développeur web passionné par les nouvelles technologies et le dévelo
 
 ## ✨ Citations et Inspirations
 
-> "La meilleure façon de prédire l'avenir est de le créer." – Peter Drucker
+> "La route du savoir est infinie." 
 >
 > "L'agilité est la capacité de s'adapter et de réagir aux changements. La flexibilité et la résilience sont des éléments clés de la réussite des projets agiles." – Anonyme
 
