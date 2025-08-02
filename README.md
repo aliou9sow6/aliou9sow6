@@ -33,6 +33,8 @@ Je suis développeur web passionné par les nouvelles technologies et le dévelo
 > "La route du savoir est infinie." 
 >
 > "L'agilité est la capacité de s'adapter et de réagir aux changements. La flexibilité et la résilience sont des éléments clés de la réussite des projets agiles." – Anonyme
+>
+> "Man is a slow, sloppy and brilliant thinker; the machine is fast, accurate and stupid." — William M. Kelly
 
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter pour des collaborations ou simplement pour échanger sur les technologies et les projets passionnants.
