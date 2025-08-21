@@ -11,7 +11,6 @@ Je suis développeur web passionné par les nouvelles technologies et le dévelo
   - **Développeur chez [Atos Sénégal](https://atos.net/) : 2023 - 2025
 - 🌐 Compétences :
   - **Langages de programmation et Framework** : Angular, Spring Boot, Laravel, Javascript, Java, PHP, C
-  - **Technologies** : Kubernetes, AWS, CI/CD
 
 ## 📫 Contact
 - Email : [aliou9sow6@gmail.com](mailto:aliou9sow6@gmail.com)
