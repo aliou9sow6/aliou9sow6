@@ -128,11 +128,10 @@ Business Developer de **SmartCouture**, solution de digitalisation des ateliers 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=aliou9sow6&token=SHA256:zhPSTQSHwrk31J+fTlTM3TpU4mwGBwEN0Wg34Eshuos
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aliou9sow6&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aliou9sow6&token=SHA256:zhPSTQSHwrk31J+fTlTM3TpU4mwGBwEN0Wg34Eshuosshow_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=aliou9sow6&layout=compact&theme=radical&hide_border=true&langs_count=10)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=aliou9sow6&token=SHA256:zhPSTQSHwrk31J+fTlTM3TpU4mwGBwEN0Wg34Eshuoslayout=compact&theme=radical&hide_border=true&langs_count=10)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliou9sow6&theme=radical&hide_border=true)
 
