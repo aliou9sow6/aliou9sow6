@@ -129,9 +129,9 @@ Business Developer de **SmartCouture**, solution de digitalisation des ateliers 
 
 <div align="center">
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aliou9sow6&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aliou9sow6&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=aliou9sow6&layout=compact&theme=radical&hide_border=true&langs_count=10)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=aliou9sow6&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliou9sow6&theme=radical&hide_border=true)
 
