@@ -61,7 +61,7 @@ Développeur Full Stack avec **plus de 2 ans d'expérience** dans la conception,
 
 ## 💼 Expériences Professionnelles
 
-### 🏢 Associé & Business Developer — *DefarSoft*
+### 🏢 Associé & Business Developer — *[DefarSoft](https:defarsoft.com)*
 📍 Dakar, Sénégal &nbsp;|&nbsp; 🗓️ Novembre 2025 – Présent
 
 Business Developer de **SmartCouture**, solution de digitalisation des ateliers de couture :
