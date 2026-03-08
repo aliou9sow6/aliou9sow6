@@ -4,7 +4,7 @@
 
 ### 🚀 Développeur Full Stack | Angular · Spring Boot · Laravel
 
-📍 Thiès – Parcelles Assainies, Sénégal &nbsp;|&nbsp; 📧 aliou6sow9@gmail.com &nbsp;|&nbsp; 📞 +221 77 050 24 86
+📍 Dakar, Sénégal &nbsp;|&nbsp; 📧 aliou6sow9@gmail.com &nbsp;|&nbsp; 📞 +221 77 050 24 86
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliou-saidou-nourou-sow-054084228/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliou9sow6)
@@ -160,7 +160,7 @@ Business Developer de **SmartCouture**, solution de digitalisation des ateliers 
 
 ## 💡 Centres d'Intérêt
 
-🏃 Jogging &nbsp;·&nbsp; 📚 Lecture &nbsp;·&nbsp; 🤝 Service communautaire
+🏃 Jogging &nbsp;·&nbsp; 📚 Lecture &nbsp;·&nbsp; 🤝 Service communautaire &nbsp;·&nbsp; Technologie
 
 ---
 
