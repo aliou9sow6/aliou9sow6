@@ -160,7 +160,7 @@ Business Developer de **SmartCouture**, solution de digitalisation des ateliers 
 
 ## 💡 Centres d'Intérêt
 
-🏃 Jogging &nbsp;·&nbsp; 📚 Lecture &nbsp;·&nbsp; 🤝 Service communautaire &nbsp;·&nbsp; Technologie
+🏃 Jogging &nbsp;·&nbsp; 📚 Lecture &nbsp;·&nbsp; 🤝 Service communautaire &nbsp;·&nbsp; 💻 Technologie
 
 ---
 
