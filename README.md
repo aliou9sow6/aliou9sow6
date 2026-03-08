@@ -9,7 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliou-saidou-nourou-sow-054084228/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliou9sow6)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliou6sow9@gmail.com)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=black)](https://x.com/aliou_nourou)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)]
+(https://x.com/aliou_nourou)
 
 </div>
 
@@ -129,9 +130,9 @@ Business Developer de **SmartCouture**, solution de digitalisation des ateliers 
 
 <div align="center">
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aliou9sow6&token=SHA256:zhPSTQSHwrk31J+fTlTM3TpU4mwGBwEN0Wg34Eshuosshow_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aliou9sow6&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=aliou9sow6&token=SHA256:zhPSTQSHwrk31J+fTlTM3TpU4mwGBwEN0Wg34Eshuoslayout=compact&theme=radical&hide_border=true&langs_count=10)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=aliou9sow6&layout=compact&theme=radical&hide_border=true&langs_count=10)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliou9sow6&theme=radical&hide_border=true)
 
