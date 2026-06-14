@@ -2,9 +2,9 @@
 
 # 👋 Bonjour, je suis **Aliou Saïdou Nourou SOW**
 
-### 🚀 Développeur Full Stack | Angular · Spring Boot · Laravel
+### 🚀 Développeur Full Stack | Angular · Spring Boot · Laravel · React
 
-📍 Dakar, Sénégal &nbsp;|&nbsp; 📧 aliou6sow9@gmail.com &nbsp;|&nbsp; 📞 +221 77 050 24 86
+📍 Keur Massar – Dakar, Sénégal &nbsp;|&nbsp; 📧 aliou6sow9@gmail.com &nbsp;|&nbsp; 📞 +221 77 050 24 86
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliou-saidou-nourou-sow-054084228/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliou9sow6)
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 Profil
 
-Développeur Full Stack avec **plus de 2 ans d'expérience** dans la conception, le développement et le déploiement d'applications web performantes. Maîtrise complète du cycle de vie logiciel, de l'analyse des besoins à la mise en production. Habitué aux environnements **Agile/Scrum**, avec un fort intérêt pour la qualité du code, la performance applicative et la création de solutions à forte valeur ajoutée.
+Développeur Full Stack avec **plus de 2 ans d'expérience** dans la conception, le développement et le déploiement d'applications web performantes. Maîtrise complète du cycle de vie logiciel, de l'analyse des besoins à la mise en production. Habitué aux environnements **Agile/Scrum**, avec un fort intérêt pour la qualité du code, la performance applicative, le CI/CD et la création de solutions à forte valeur ajoutée.
 
 ---
 
@@ -30,20 +30,27 @@ Développeur Full Stack avec **plus de 2 ans d'expérience** dans la conception,
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Back-end**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Bases de données**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**DevOps & Outils**
+**Cloud, DevOps & Outils**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
@@ -73,18 +80,7 @@ Business Developer de **SmartCouture**, solution de digitalisation des ateliers 
 
 ---
 
-### 🌍 Digital Ambassador — *Banque Africaine de Développement (BAD)*
-📍 Remote &nbsp;|&nbsp; 🗓️ Novembre 2023 – Présent &nbsp;|&nbsp; *Programme Coding for Employment*
-
-- Point focal numérique au sein de la communauté locale
-- Adaptation des contenus pédagogiques au contexte local
-- Sensibilisation aux usages éthiques et responsables du numérique
-- Identification des besoins numériques communautaires et proposition de solutions adaptées
-- Suivi de la progression des apprenants et reporting à l'équipe programme
-
----
-
-### 💻 Développeur Full Stack — *[Atos SN](https://atos.net/)*
+### 💻 Ingénieur Étude et Développement — *[Atos SN](https://atos.net/)*
 📍 Dakar, Sénégal &nbsp;|&nbsp; 🗓️ Février 2023 – Février 2025
 
 **Projets clés :** Admin Portail / MaaS (Mobility as a Service) · KPI Review Tool
@@ -100,10 +96,30 @@ Business Developer de **SmartCouture**, solution de digitalisation des ateliers 
 
 ---
 
+### 🌍 Digital Ambassador — *African Development Bank Group*
+📍 Remote &nbsp;|&nbsp; 🗓️ Novembre 2023 – Présent &nbsp;|&nbsp; *Programme Coding for Employment*
+
+- Point focal numérique au sein de la communauté locale
+- Adaptation des contenus pédagogiques au contexte local
+- Sensibilisation aux usages éthiques et responsables du numérique
+- Identification des besoins numériques communautaires et proposition de solutions adaptées
+- Suivi de la progression des apprenants et reporting à l'équipe programme
+
+---
+
+## 🚀 Projets Récents
+
+- **🧩 Portfolio React** — Application portfolio Full Stack (React, Node.js/Express, MongoDB) avec pipeline CI/CD complet : Jenkins, Docker, Docker Hub, SonarQube et notifications par email.
+- **✂️ Courture Courses** — Plateforme francophone de réservation de cours de couture (Laravel 11, PHP 8.2, Vite, Tailwind CSS), inclusive pour tous les genres, âges et niveaux, avec déploiement Docker.
+- **📚 AWS CLF-C02 Study Hub** — Site de révision pour la certification AWS Cloud Practitioner : flashcards interactives, quiz de 20 questions, glossaire avec recherche en direct et suivi de progression (design dark glassmorphism).
+
+---
+
 ## 🎓 Formation
 
 | Année | Diplôme | Établissement | Lieu |
 |-------|---------|--------------|------|
+| Mars 2026 – Présent | AWS / DevOps | Orange Digital Center (Sonatel Academy) | 🇸🇳 Sénégal |
 | 2025 – Présent | Deep Learning Fundamentals Lab BETA | WorldQuant University | 🇺🇸 USA |
 | 2024 – 2025 | Foundation Degree – Applied Data Science Lab | WorldQuant University | 🇺🇸 USA |
 | 2021 – 2022 | Certification en Développement Logiciel | Programme Force-N / MasterCard | 🇸🇳 Sénégal |
