@@ -16,12 +16,11 @@
 ---
 ## 🧑‍💻 Profil
 <p><small>Développeur Full Stack avec <strong>plus de 3 ans d'expérience</strong> dans la conception, le développement et le déploiement d'applications web performantes. Maîtrise complète du cycle de vie logiciel, de l'analyse des besoins à la mise en production. Habitué aux environnements <strong>Agile/Scrum</strong>, avec un fort intérêt pour la qualité du code, la performance applicative, le CI/CD et la création de solutions à forte valeur ajoutée.</small></p>
----
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aliou9sow6&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=aliou9sow6&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400)
+---
+
 ## 🛠️ Compétences Techniques
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliou9sow6&theme=radical&hide_border=true&cache_seconds=86400)
+
 
 **Front-end**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
