@@ -14,14 +14,14 @@
 </div>
 
 ---
-
 ## 🧑‍💻 Profil
-
-Développeur Full Stack avec **plus de 2 ans d'expérience** dans la conception, le développement et le déploiement d'applications web performantes. Maîtrise complète du cycle de vie logiciel, de l'analyse des besoins à la mise en production. Habitué aux environnements **Agile/Scrum**, avec un fort intérêt pour la qualité du code, la performance applicative, le CI/CD et la création de solutions à forte valeur ajoutée.
-
+Développeur Full Stack avec **plus de 3 ans d'expérience** dans la conception, le développement et le déploiement d'applications web performantes. Maîtrise complète du cycle de vie logiciel, de l'analyse des besoins à la mise en production. Habitué aux environnements **Agile/Scrum**, avec un fort intérêt pour la qualité du code, la performance applicative, le CI/CD et la création de solutions à forte valeur ajoutée.
 ---
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aliou9sow6&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400)
 
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=aliou9sow6&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400)
 ## 🛠️ Compétences Techniques
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliou9sow6&theme=radical&hide_border=true&cache_seconds=86400)
 
 **Front-end**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -109,8 +109,18 @@ Business Developer de **SmartCouture**, solution de digitalisation des ateliers 
 
 ## 🚀 Projets Récents
 
+- **✨ SmartCouture — Plateforme SaaS de Gestion des Ateliers de Couture** — Solution complète de digitalisation pour les ateliers de couture en Afrique de l'Ouest. Gestion centralisée des commandes, des clients, du stock de tissus/accessoires, des devis et des paiements. Architecture Full Stack moderne avec tableau de bord analytique, notifications en temps réel et support multi-utilisateur. *Mon meilleur argument commercial : transforme les petits ateliers informels en entreprises professionnelles 100% digitalisées.*
+  
+- **🚗 MaaS (Mobility as a Service) — Compte de Mobilité Intelligent pour Grenoble** — Plateforme d'intégration multi-services de transport développée chez Atos pour la ville de Grenoble. Gestion centralisée des abonnements aux transports publics, vélos, scooters et VTC. Fonctionnalités : agrégation tarifaire, réservation multimodale, historique des trajets, remboursement automatisé et reporting consommation. Stack technique : `Angular 15+` `SpringBoot` `PostgreSQL` `OpenShift` `Liquibase`.
+
+- **📊 KPI Review Tool — Outil Interactif de Suivi des Performances** — Dashboard analytique pour le suivi en temps réel des KPIs par équipes, projets et départements. Fonctionnalités avancées : filtres multicritères, drill-down interactif, gestion granulaire des rôles/permissions, export de rapport multi-format. Implémentation de tests fonctionnels rigoureux et documentation technique complète. Stack : `Angular` `Java` `Spring Boot` `PostgreSQL` `Jira`.
+
+- **📋 PRIP / PharmaRelance — Plateforme de Suivi des Projets du Ministère de la Santé** — Système de gestion et suivi des projets du secteur sanitaire (détails limités par confidentialité). Contribution au développement back-end et intégration des processus métiers.
+
 - **🧩 Portfolio React** — Application portfolio Full Stack (React, Node.js/Express, MongoDB) avec pipeline CI/CD complet : Jenkins, Docker, Docker Hub, SonarQube et notifications par email.
+
 - **✂️ Courture Courses** — Plateforme francophone de réservation de cours de couture (Laravel 11, PHP 8.2, Vite, Tailwind CSS), inclusive pour tous les genres, âges et niveaux, avec déploiement Docker.
+
 - **📚 AWS CLF-C02 Study Hub** — Site de révision pour la certification AWS Cloud Practitioner : flashcards interactives, quiz de 20 questions, glossaire avec recherche en direct et suivi de progression (design dark glassmorphism).
 
 ---
