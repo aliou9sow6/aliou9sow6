@@ -15,7 +15,7 @@
 
 ---
 ## 🧑‍💻 Profil
-Développeur Full Stack avec **plus de 3 ans d'expérience** dans la conception, le développement et le déploiement d'applications web performantes. Maîtrise complète du cycle de vie logiciel, de l'analyse des besoins à la mise en production. Habitué aux environnements **Agile/Scrum**, avec un fort intérêt pour la qualité du code, la performance applicative, le CI/CD et la création de solutions à forte valeur ajoutée.
+<p><small>Développeur Full Stack avec <strong>plus de 3 ans d'expérience</strong> dans la conception, le développement et le déploiement d'applications web performantes. Maîtrise complète du cycle de vie logiciel, de l'analyse des besoins à la mise en production. Habitué aux environnements <strong>Agile/Scrum</strong>, avec un fort intérêt pour la qualité du code, la performance applicative, le CI/CD et la création de solutions à forte valeur ajoutée.</small></p>
 ---
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=aliou9sow6&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400)
 
